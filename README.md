@@ -22,6 +22,10 @@ kursy udemy:
 Programowanie w języku Python - od A do Z – Paweł Krakowiak  
 Data Science: Analiza danych w Python i PANDAS – Rafał Mobilo
 
+R
+kurs udemy:
+Język R dla początkujących - Rafał Mobilo - w trakcie
+
 Excel (Power Query, Power BI)  
 kursy udemy:  
 Mistrz Power Query w Excelu – Adam Kopeć  
