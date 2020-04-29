@@ -19,7 +19,7 @@ The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert – Colt Steele
 
 Python  
 kursy udemy:  
-Programowanie w języku Python - od A do Z – Paweł Krakowiak
+Programowanie w języku Python - od A do Z – Paweł Krakowiak  
 200+ Ćwiczeń - Programowanie w języku Python - od A do Z - Paweł Krakowiak  
 Data Science: Analiza danych w Python i PANDAS – Rafał Mobilo
 
