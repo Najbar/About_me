@@ -30,10 +30,9 @@ R
 kurs udemy:  
 Język R dla początkujących - Rafał Mobilo
 
-Excel (Power Query, Power BI)  
+Excel (Power Query)  
 kursy udemy:  
-Mistrz Power Query w Excelu – Adam Kopeć  
-Microsoft Power BI - zostań Mistrzem Power BI Desktop – Adam Kopeć  
+Mistrz Power Query w Excelu – Adam Kopeć 
 
 JavaScript (ES6)  
 kursy udemy:  
