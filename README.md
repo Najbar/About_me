@@ -5,3 +5,6 @@ I am team player. I enjoy sharing knowledge and working in a friendly and suppor
 I am an advocate of Agile/Scrum methodologies, which can improve team coordination and enhance the quality, efficiency, and job satisfaction.
 
 My programming language expertise includes SAS 4GL, Python, R, Oracle SQL, and PL/SQL.
+
+In Data_Science_projects & Other_projects repositories you can find some of my exemplary projects.  
+In Certificates repository you can find certs and diplommas.
